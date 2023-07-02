@@ -1,0 +1,31 @@
+{
+  "name": "armenian-names",
+  "version": "1.0.0",
+  "description": "An NPM package for Armenian names",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shantdashjian/armenian-names.git"
+  },
+  "keywords": [
+    "armenian",
+    "names",
+    "given names",
+    "armenian names",
+    "cultural",
+    "baby names",
+    "male names",
+    "female names",
+    "boy names",
+    "girl names"
+  ],
+  "author": "Shant Dashjian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shantdashjian/armenian-names/issues"
+  },
+  "homepage": "https://github.com/shantdashjian/armenian-names#readme"
+}
