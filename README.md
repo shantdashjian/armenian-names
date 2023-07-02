@@ -24,6 +24,9 @@ getRandomFemaleName()
 getRandomName()
 </pre>
 
+# Source
+[Wiktionary.org's page for Armenian given names](https://en.wiktionary.org/wiki/Appendix:Armenian_given_names)
+
 
 
 
