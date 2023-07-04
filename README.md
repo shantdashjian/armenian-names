@@ -1,7 +1,9 @@
 # armenian-names
+
 An NPM package for Armenian names.
 
 # Usage
+
 Install the package using [npm](https://www.npmjs.com/):
 <pre>
 $ npm i armenian-names
@@ -9,25 +11,26 @@ $ npm i armenian-names
 
 Now you can require the package in your code and use it:
 <pre>
-const {getRandomName} = require('armenian-names')
+const {getRandomBoyName, getRandomGirlName} = require('armenian-names')
 
-console.log(getRandomName())
+console.log(getRandomBoyName())
+console.log(getRandomGirlName())
+
 </pre>
 
 The package exports the following functions:
 <pre>
-getMaleNames()
-getFemaleNames()
-getAllNames()
-getRandomMaleName()
-getRandomFemaleName()
-getRandomName()
+getBoyNames(), 
+getGirlNames(), 
+getAllNames(), 
+getRandomBoyName(), 
+getRandomGirlName(), 
+getRandomName(), 
+getRandomBoyNameThatStartsWith(firstLetters), 
+getRandomGirlNameThatStartsWith(firstLetters), 
+getRandomNameThatStartsWith(firstLetters)
 </pre>
 
 # Source
+
 [Wiktionary.org's page for Armenian given names](https://en.wiktionary.org/wiki/Appendix:Armenian_given_names)
-
-
-
-
-
