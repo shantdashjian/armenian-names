@@ -19,6 +19,11 @@ test('gets all boy names', () => {
   expect(boyNames.includes('Shant')).toBe(true)
 })
 
+test('gets non-empty all boy names', () => {
+  const boyNames = getBoyNames()
+  expect(boyNames.length).toBeGreaterThan(0)
+})
+
 test('gets all girl names', () => {
   const girlNames = getGirlNames()
   expect(girlNames.length).toBe(girlNamesLength)
