@@ -2,6 +2,8 @@
 
 An NPM package for Armenian names.
 
+![baby](./images/baby.jpeg)
+
 # Usage
 
 Install the package using [npm](https://www.npmjs.com/):
@@ -20,14 +22,14 @@ console.log(getRandomGirlName())
 
 The package exports the following functions:
 <pre>
-getBoyNames(), 
-getGirlNames(), 
-getAllNames(), 
-getRandomBoyName(), 
-getRandomGirlName(), 
-getRandomName(), 
-getRandomBoyNameThatStartsWith(firstLetters), 
-getRandomGirlNameThatStartsWith(firstLetters), 
+getBoyNames() 
+getGirlNames() 
+getAllNames() 
+getRandomBoyName() 
+getRandomGirlName() 
+getRandomName() 
+getRandomBoyNameThatStartsWith(firstLetters) 
+getRandomGirlNameThatStartsWith(firstLetters) 
 getRandomNameThatStartsWith(firstLetters)
 </pre>
 
