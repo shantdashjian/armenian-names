@@ -2,7 +2,7 @@
 
 An NPM package for Armenian names.
 
-![baby](./images/baby.jpeg)
+![baby](./images/baby.jpg)
 
 # Usage
 
