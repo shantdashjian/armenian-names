@@ -4,6 +4,10 @@ An NPM package for Armenian names.
 
 ![baby](./images/baby.jpg)
 
+# Motivation
+
+Armenain parents in the diaspora struggle to find good ethnic Armenian names for their new born babies. This package empowers web developers to build applications that help those parents with picking a good name.
+
 # Usage
 
 Install the package using [npm](https://www.npmjs.com/):

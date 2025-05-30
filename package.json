@@ -1,6 +1,6 @@
 {
   "name": "armenian-names",
-  "version": "2.2.1",
+  "version": "2.3.0",
   "description": "An NPM package for Armenian names",
   "main": "index.js",
   "scripts": {
