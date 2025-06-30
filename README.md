@@ -11,21 +11,20 @@ Armenain parents in the diaspora struggle to find good ethnic Armenian names for
 # Usage
 
 Install the package using [npm](https://www.npmjs.com/):
-<pre>
-$ npm i armenian-names
-</pre>
+```bash
+npm i armenian-names
+```
 
 Now you can require the package in your code and use it:
-<pre>
+```javascript
 const {getRandomBoyName, getRandomGirlName} = require('armenian-names')
 
 console.log(getRandomBoyName())
 console.log(getRandomGirlName())
-
-</pre>
+```
 
 The package exports the following functions:
-<pre>
+```javascript
 getBoyNames() 
 getGirlNames() 
 getAllNames() 
@@ -35,7 +34,7 @@ getRandomName()
 getRandomBoyNameThatStartsWith(firstLetters) 
 getRandomGirlNameThatStartsWith(firstLetters) 
 getRandomNameThatStartsWith(firstLetters)
-</pre>
+```
 
 # Source
 
